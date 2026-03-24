@@ -10,10 +10,16 @@ If not working write me pls)
 Гайд / Guide:
 
 ```
-pkg update 
- pkg upgrade -y 
- pkg install git curl termux-api nano bash python nodejs wget -y 
+pkg update
+
+ pkg upgrade -y
+
+ pkg install git curl termux-api nano
+
+bash python nodejs wget -y
+
 git clone https://github.com/Superapps-ui/helperrv2.git
+
 cd helperrv2
 ```
 ## Запуск / Start :
